@@ -1,6 +1,6 @@
 {
 	"name": "Vue",
-	"priority": 900,
+	"priority": 2,
 	"runner": "runner.js",
 	"router": "index.js",
 	"git": {
